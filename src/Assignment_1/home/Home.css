@@ -1,0 +1,21 @@
+.checked {
+    color: orange;
+  }
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    padding-top: 30px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ #name{
+      color: rgb(142, 20, 212);
+      /* color: white; */
+  text-shadow: 2px 2px 4px #000000;
+      padding-top: 50px;
+     
+  }

@@ -1,0 +1,26 @@
+form{
+    margin: 0px;
+    padding: 0px;
+    text-align:center;
+    width: 100%;
+    background-color: #e6e6fae8;
+    }
+    input[type=submit]{
+        background-color:#0a8f58;
+        width: 100%;
+        padding: 9px 5px;
+        margin:10px 0px 0px 30px;
+        cursor:pointer;
+        border:none;
+        color:#070e08;
+        font-size: 17px;
+        font-weight: bold;
+        }
+        #id{
+            width: 100%;
+            padding: 9px 5px;
+            margin:10px 0px 0px 30px;
+            cursor:pointer;
+            border:none; 
+        }
+         
